@@ -1,7 +1,14 @@
 # Reproducible Research: Peer Assessment 1
+```{r}
+1+1
+
+```
 
 
 ## Loading and preprocessing the data
+```{r}
+plot(rnorm(100))
+```
 
 
 
